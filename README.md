@@ -1,18 +1,28 @@
 **Customer Segmentation and Analysis Using Clustering**
+
 **Project Overview**
+
 This project focuses on analyzing customer data from a marketing campaign to understand customer behavior and segment them into clusters using machine learning techniques. The data analysis involves data cleaning, feature engineering, visualization, and clustering using algorithms like K-Means and Agglomerative Clustering.
 
 The dataset used in this project is the "Customer Personality Analysis" dataset, which includes various attributes related to customer demographics, purchase behavior, and response to marketing campaigns.
 
 **Dataset**
 **Name**: Customer Personality Analysis (Marketing Campaign)
+
 **Source**: Kaggle Dataset
+
 **Description**: The dataset contains information on customers such as their demographics, purchase behaviors, and responses to various marketing campaigns.
+
 **Files**
+
 **marketing_campaign.csv**: The main dataset file used for analysis.
+
 **script.py**: The Python script containing the code for data analysis, preprocessing, clustering, and visualization.
+
 **README.md**: This file providing an overview and instructions for the project.
+
 **Installation**
+
 To run this project locally, you'll need to have Python installed along with several Python libraries. Follow the steps below to set up your environment:
 
 **1. Clone the Repository**
